@@ -1,0 +1,11 @@
+.home-image {
+  width: 90%;
+}
+
+.home-page-con {
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

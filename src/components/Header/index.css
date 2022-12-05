@@ -1,0 +1,59 @@
+.nav-con {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  height: 10vh;
+}
+
+.nav-logo {
+  width: 44px;
+}
+
+.btn {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  height: 24px;
+  background-color: transparent;
+}
+.icon {
+  height: 100%;
+  width: 100%;
+}
+
+.pop-up-container {
+  height: 100vh;
+  width: 90vw;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px;
+}
+
+.close-icon {
+  align-self: flex-end;
+}
+.menu-responsive-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}
+.name-icon-con {
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+}
+.menu-icon {
+  margin-right: 10px;
+}
+.link-component {
+  text-decoration: none;
+  color: #616e7c;
+}

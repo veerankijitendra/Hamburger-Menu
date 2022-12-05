@@ -1,0 +1,12 @@
+.not-found-image {
+  width: 20%;
+}
+.not-found-con {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #616e7c;
+  font-family: 'Roboto';
+  height: 90vh;
+}
